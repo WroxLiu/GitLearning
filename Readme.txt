@@ -1,4 +1,6 @@
 Git基本常用命令如下：
+   git config --global user.name "xxx" 设置用户名
+   git config --global user.email "xxx@xxx.com" 设置邮箱
    mkdir：         XX (创建一个空目录 XX指目录名)
    pwd：          显示当前目录的路径。
    git init          把当前的目录变成可以管理的git仓库，生成隐藏.git文件。
